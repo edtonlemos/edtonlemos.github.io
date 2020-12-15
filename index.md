@@ -2,6 +2,21 @@
 layout: default
 ---
 
+# Olá, mundo! 
+
+Sergipano. Nasci em Aracaju e cresci na capital do sertão, Nossa Senhora da Glória. Apaixonado por cidade grande, estou em contato com tecnologia desde 2005, quando ganhei meu primeiro computador.
+
+
+
+
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
