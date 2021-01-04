@@ -2,137 +2,39 @@
 layout: default
 ---
 
-# Olá, mundo! 
+# Olá, mundo! :earth_americas:
 
-Sergipano. Nasci em Aracaju e cresci na capital do sertão, Nossa Senhora da Glória. Apaixonado por cidade grande, estou em contato com tecnologia desde 2005, quando ganhei meu primeiro computador.
-
-
-
-
-
-
-
-
-
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> Sergipano. Nasci em Aracaju e cresci na capital do sertão, Nossa Senhora da Glória :cactus:. Apaixonado por cidade grande, estou em contato com tecnologia desde 2005, quando ganhei meu primeiro computador e viciei no universo dos MMORPG. Entrei no mundo da Tecnologia da Informação em 2012 na minha primeira graduação, e no final de 2017 recebi o título de Bacharel em Sistemas de Informação pela Universidade Federal de Sergipe. Fui autodidata na língua inglesa e desenvolvi melhor meu conhecimento no idioma lendo bastantes artigos sobre *e-Health* e *Ambient Assisted Livin*g nos meus tempos de acadêmico. Como consequência ainda tenho uma conversação ruim, mas compreendo, leio e escrevo bem. 
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Meu background como desenvolvedor sempre orbitou o universo Java :coffee: então acabei trabalhando com tecnologias como JSF, JSP, Spring e Hibernate. Tenho interesse também em desenvolvimento mobile nativo para Android e estou estudando essas tecnologias sempre que posso, porém ainda tenho pouca experiência com isso. 
+>
+> Tenho objetivo de um dia trabalhar só com desenvolvimento Android [👾](https://emojipedia.org/alien-monster/) , mas por hora, estou procurando emprego na área de back-end em que eu possa utilizar o conhecimento que adquiri com Java e ganhar experiência profissional. 
 
-### Header 3
+## Pode ser importante para você:
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+###### Formação:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+###### Outros cursos:
 
-#### Header 4
+###### Experiência:  
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+------
 
-##### Header 5
+*Mais informações no meu* **[LinkedIn](https://www.linkedin.com/in/edtonlemos/)**  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Não é importante para você, mas é para mim: 
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- Melhor gladiador do Lineage II da Lan House de Cley;
+- **Horda** sempre!
+- Suporte/Jungler Platina IV no League of Legends: Tristônha (pode adicionar);
+- Treinador Pokémon lvl 42: vou-colocar-o-code;
+- Mago lvl 61 no Black Desert: Neverday;
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+And the grass was so green against my new clothes
+And I did cartwheels in your honour
+Dancing on tiptoes
+My own secret ceremonials
+Before the service began
+In the graveyard doing handstands. ♪
 ```
