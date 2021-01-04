@@ -20,7 +20,7 @@ layout: default
 
 ------
 
-*Mais informações no meu* **[LinkedIn](https://www.linkedin.com/in/edtonlemos/)**  
+*Mais informações no meu* <a href="https://www.linkedin.com/in/edtonlemos/" target="_blank">**LinkedIn**</a>
 
 ## Não é importante para você, mas é para mim: 
 
